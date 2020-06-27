@@ -12,4 +12,3 @@ square_array = [ ]
    square_array << number * number
 end
 return square_array
-
