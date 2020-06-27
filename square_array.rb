@@ -8,7 +8,7 @@
 # end
 
 square_array = [ ]
-numbers.each {|number| return square_array << number * number}
+square_array.each {|number| return square_array << number * number}
 
 
 
