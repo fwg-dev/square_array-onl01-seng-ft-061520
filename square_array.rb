@@ -9,7 +9,7 @@
 
 numbers = [ ]
 
-numbers.each {|number| return {square_array << number * number}}
+numbers.each {|number| return square_array << number * number}
 
 
 
