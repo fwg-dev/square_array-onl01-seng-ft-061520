@@ -7,7 +7,7 @@
 # return square_array
 # end
 
-square_array = [ ]
+square_array = [1,2,3 ]
 square_array.each {|number| return square_array << number * number}
 
 
