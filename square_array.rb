@@ -8,5 +8,6 @@
 # end
 
 square_array = [ ]
- array.each do |number| square_array << number * number
+ array.each do |number|
+   square_array << number * number
 end
